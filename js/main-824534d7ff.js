@@ -1,0 +1,1 @@
+"use strict";var swiper=new Swiper(".swiper-container",{loop:!0,pagination:{el:".swiper-pagination"},navigation:{nextEl:".slider-button-next",prevEl:".slider-button-prev"},autoplay:{delay:5e3,disableOnInteraction:!1}});
